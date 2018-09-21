@@ -1,0 +1,12 @@
+
+{
+  "name": "all9lives/littlebot-netlify",
+  "type": "wordpress-plugin",
+  "homepage": "https://github.com/all9lives/littlebot-netlify",
+  "license": "GPL-2.0",
+  "description": "Connect your WordPress website to Netlify by triggering stage and or production build hooks on post save and or update.",
+  "keywords": ["plugin","wordpress","littlebot-netlify","netlify"],
+  "require": {
+    "composer/installers": "^1.0.6"
+  }
+}
